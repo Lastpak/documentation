@@ -22,7 +22,7 @@ Integrating anchoring is relatively simple and should take between a couple of h
 
 A Live Contract is an agreement between organizations that contains both on-chain and off-chain instructions. Live Contracts enable cross-organizational workflows without the need of a central system or trusted party.
 
-Start with the tutorial, which takes you through be basic concepts and as you get familiar with writing and testing workflow scenarios.
+Start with the tutorial, which takes you through the basic concepts and as you get familiar with writing and testing workflow scenarios.
 
 {% page-ref page="tutorials/live-contracts/" %}
 
